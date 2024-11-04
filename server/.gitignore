@@ -1,0 +1,5 @@
+#server
+/server/.env
+
+#dependancies
+/node_modules
